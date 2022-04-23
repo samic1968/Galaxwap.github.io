@@ -3,7 +3,7 @@
 }
 body{
     background-attachment: fixed;
-    background :url('../website/New Folder/page.png');
+    background :url('../Galaxwap.github.io/New folder/page.png');
     background-size: cover;
 }
 .nNeed {
@@ -113,7 +113,7 @@ body{
     position: relative;
     
     animation: loader 2s infinite ease;
-    background-image: url('../website/New Folder/spacestone3.1.png');
+    background-image: url('../Galaxwap.github.io/New folder/spacestone3.1.png');
     background-size: cover;
   }
   .loader-inner {
@@ -122,7 +122,7 @@ body{
     width: 100%;
     background-color: rgb(255, 255, 255);
     animation: loader-inner 2s infinite ease-in;
-    background-image: url('../website/New Folder/spacestone3.1.png');
+    background-image: url('../Galaxwap.github.io/New folder/spacestone3.1.png');
   }
   
   @keyframes loader {
